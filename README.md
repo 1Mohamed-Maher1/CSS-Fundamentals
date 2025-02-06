@@ -14,10 +14,8 @@ In this course, I gained a solid foundation in CSS and learned how to style and 
 - **Best Practices**: Exploring CSS tricks and approaches to maintain clean, scalable code.
 
 ## Achievements:
-• Successfully completed **42 topics** and **17 quizzes**.
-• Earned a certification for completing the course with 100% progress.
-• Solved challenges and applied best practices to reinforce learning.
+- Successfully completed **42 topics** and **17 quizzes**.
+- Earned a certification for completing the course with 100% progress.
+- Solved challenges and applied best practices to reinforce learning.
 
 This course enhanced my ability to create visually appealing and responsive designs, setting a strong foundation for advanced web development projects.
-
--
