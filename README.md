@@ -19,3 +19,12 @@ In this course, I gained a solid foundation in CSS and learned how to style and 
 - Solved challenges and applied best practices to reinforce learning.
 
 This course enhanced my ability to create visually appealing and responsive designs, setting a strong foundation for advanced web development projects.
+---
+### index_1
+![index_1](https://github.com/user-attachments/assets/3c38415d-5642-47af-8593-3edf2846e324)
+---
+### index_2
+![index_2](https://github.com/user-attachments/assets/5c3c2fe5-339f-4efa-80e4-7da99ce69178)
+---
+### index_3
+![index_3](https://github.com/user-attachments/assets/b53a45f5-a814-4566-bc70-4c45298dca95)
